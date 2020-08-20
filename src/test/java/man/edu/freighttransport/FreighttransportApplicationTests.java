@@ -1,0 +1,13 @@
+package man.edu.freighttransport;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class FreighttransportApplicationTests {
+
+    @Test
+    void contextLoads() {
+    }
+
+}
